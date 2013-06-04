@@ -1,7 +1,7 @@
 #!/bin/bash
 
 ### Local Variables
-basedir="/opt/infr"
+basedir="/root/infr"
 localHost="$(hostname)"
 localPath="/opt/sonatype-work/"
 includeFile="${basedir}/bin/inc/nexus.include"
