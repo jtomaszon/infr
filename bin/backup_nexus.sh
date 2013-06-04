@@ -1,9 +1,10 @@
 #!/bin/bash
 
 ### Local Variables
+basedir="/opt/infr"
 localHost="$(hostname)"
 localPath="/opt/sonatype-work/"
-includeFile="/root/bin/inc/nexus.include"
+includeFile="${basedir}/bin/inc/nexus.include"
 
 ### Backup Server Variables
 bckUser="backups"
