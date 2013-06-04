@@ -1,0 +1,5 @@
++ /nexus/storage/
++ /nexus/conf/
++ /nexus/logs/
++ /nexus/timeline/
+- /nexus/*
